@@ -37,7 +37,7 @@ The TOPSIS method is implemented through the following steps:
 5. **Calculation** of TOPSIS scores for each model.
 6. **Ranking** of the models based on their scores.
 
-## 6. Conclusion
+## 3. Conclusion
 
 The implementation of the **TOPSIS** method allows for a systematic and objective ranking of pretrained models for text classification. By considering multiple evaluation criteria such as accuracy, F1-score, inference time, and model size, we can make well-informed decisions about the most suitable model for a given task. This approach provides a clear and structured way to compare models, ensuring that the selected model is optimized for performance and efficiency.
 
